@@ -5,7 +5,7 @@ Hi, I'm SAP ERP ABAP consultant and developer. 🤝
 <div align="center">
   <img src="icon.png" height="320px" width="auto" />
   <br>
-  <img src="https://img.shields.io/badge/age-31-green" />
+  <img src="https://img.shields.io/badge/age-32-green" />
   <img src="https://img.shields.io/badge/language-Japanese-brightgreen" />
   <img src="https://img.shields.io/badge/favorite-TypeScript-blue" />
   <img src="https://img.shields.io/badge/Study-Deno-yellowgreen" />
@@ -19,7 +19,7 @@ Hi, I'm SAP ERP ABAP consultant and developer. 🤝
 
 - Call me "せぷた" or "せぷたむ" or Septum
 - I like VSinger! [AZKi](https://twitter.com/AZKi_VDiVA), [Isekaijoucho](https://twitter.com/isekaijoucho) _big love!_
-- I like Anime! Recently, my favorite is "Tensei shitara Ken deshita" (Reincarnated　as a Sword).
+- I like Anime! Recently, my favorite is "Tensei shitara Ken deshita" (Reincarnated as a Sword).
 - フランちゃんかわいい💞
 
 ## 📈 Status
