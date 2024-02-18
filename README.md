@@ -11,13 +11,13 @@ Hi, I'm SAP ERP ABAP consultant and developer. 🤝
   <img src="https://img.shields.io/badge/Study-Deno-yellowgreen" />
   <img src="https://img.shields.io/badge/Work-SAP__SD-orange" />
   <img src="https://img.shields.io/badge/used%20work-ABAP-B6CADE" />
-  <a href="https://lit.link/interceptor128" target="_blank">
+  <a href="https://interceptor128.com/" target="_blank">
   <img src="https://img.shields.io/badge/Detail-Profile-9cf" />
   </a>
 </div>
 <br>
 
-- Call me "せぷた" or "せぷたむ" or Septum
+- Call me "せぷた" or SEPUTA
 - I like VSinger! [AZKi](https://twitter.com/AZKi_VDiVA), [Isekaijoucho](https://twitter.com/isekaijoucho) _big love!_
 - I like Anime! Recently, my favorite is "Tensei shitara Ken deshita" (Reincarnated as a Sword).
 - フランちゃんかわいい💞
@@ -33,4 +33,4 @@ Hi, I'm SAP ERP ABAP consultant and developer. 🤝
 
 ## 📩 Contact
 
-Twitter - **[@interceptor128](https://twitter.com/interceptor128)** | **[@septum128](https://twitter.com/septum128)**
+Twitter - **[@interceptor128](https://twitter.com/interceptor128)**
