@@ -23,11 +23,6 @@ Hi, I'm SAP ERP ABAP consultant and developer. 🤝
 - フランちゃんかわいい💞
 
 ## 📈 Status
-
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/septum128/posts.svg)](http://qiita.com/septum128)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/septum128/contributions.svg)](http://qiita.com/septum128)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/septum128/followers.svg)](http://qiita.com/septum128)
-
 <div align = "left">
   <img alt="interceptor128's GitHub stats" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=interceptor128&show_icons=true&theme=solarized-dark" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=interceptor128&layout=compact&theme=solarized-dark" />
