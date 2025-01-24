@@ -24,8 +24,8 @@ Hi, I'm SAP ERP ABAP consultant and developer. 🤝
 
 ## 📈 Status
 <div align = "left">
-  <img alt="interceptor128's GitHub stats" height="150px" src="https://github-readme-stats-j443i4500-interceptor128s-projects.vercel.app/api?username=interceptor128&show_icons=true&theme=solarized-dark" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-j443i4500-interceptor128s-projects.vercel.app/api/top-langs/?username=interceptor128&layout=compact&theme=solarized-dark" />
+  <img alt="interceptor128's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=interceptor128&show_icons=true&theme=solarized-dark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=interceptor128&layout=compact&theme=solarized-dark" />
 </div>
 <br>
 
