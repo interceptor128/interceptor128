@@ -5,7 +5,7 @@ Hi, I'm SAP ERP ABAP consultant and developer. 🤝
 <div align="center">
   <img src="icon.png" height="320px" width="auto" />
   <br>
-  <img src="https://img.shields.io/badge/age-32-green" />
+  <img src="https://img.shields.io/badge/age-35-green" />
   <img src="https://img.shields.io/badge/language-Japanese-brightgreen" />
   <img src="https://img.shields.io/badge/favorite-TypeScript-blue" />
   <img src="https://img.shields.io/badge/Study-Deno-yellowgreen" />
@@ -24,8 +24,8 @@ Hi, I'm SAP ERP ABAP consultant and developer. 🤝
 
 ## 📈 Status
 <div align = "left">
-  <img alt="interceptor128's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=interceptor128&show_icons=true&theme=solarized-dark" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=interceptor128&layout=compact&theme=solarized-dark" />
+  <img alt="interceptor128's GitHub stats" height="150px" src="https://github-readme-stats-interceptor128-ew5ej7he.vercel.app/api?username=interceptor128&show_icons=true&theme=solarized-dark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-interceptor128-ew5ej7he.vercel.app/api/top-langs/?username=interceptor128&layout=compact&theme=solarized-dark" />
 </div>
 <br>
 
