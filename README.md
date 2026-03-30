@@ -29,7 +29,7 @@ Hi, I'm SAP ERP ABAP consultant and developer. 🤝
 </div>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=interceptor128)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-interceptor128-ew5ej7he.vercel.app/?username=interceptor128)](https://github.com/interceptor128/github-profile-trophy)
 
 ## 📩 Contact
 
